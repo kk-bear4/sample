@@ -1,1 +1,1 @@
-# sample
+WIN32APIサンプルプログラム
